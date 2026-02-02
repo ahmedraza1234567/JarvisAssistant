@@ -34,7 +34,7 @@ A futuristic, voice-activated desktop assistant designed to bridge the gap betwe
 ---
 
 ## 📂 Project Structure
-
+```text
 RAZA-ASSISTANT/
 ├── .ven/                  # Virtual Environment (Hidden)
 ├── Backend/               # Core Logic Files
@@ -52,7 +52,7 @@ RAZA-ASSISTANT/
 ├── .env                   # API Keys (Not uploaded)
 ├── .gitignore             # Git Configuration
 └── Requirements.txt       # Dependencies
-
+```
 
 ⚙️ Installation & Setup
 1. Clone the Repository
