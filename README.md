@@ -54,27 +54,27 @@ RAZA-ASSISTANT/
 └── Requirements.txt       # Dependencies
 ```
 
-⚙️ Installation & Setup
-1. Clone the Repository
+##⚙️ Installation & Setup
+#1. Clone the Repository
 Bash
 git clone [https://github.com/ahmedraza1234567/JarvisAIAssistant.git](https://github.com/ahmedraza1234567/JarvisAIAssistant.git)
 cd JarvisAIAssistant
 
-2. Create a Virtual Environment (Optional but Recommended)
+#2. Create a Virtual Environment (Optional but Recommended)
 Bash
 python -m venv .venv
-# Activate:
-# Windows: .venv\Scripts\activate
-# Mac/Linux: source .venv/bin/activate
+Activate:
+Windows: .venv\Scripts\activate
+Mac/Linux: source .venv/bin/activate
 
-3. Install Dependencies
+#3. Install Dependencies
 Bash
 pip install -r Requirements.txt
 
-4. Configure API Keys
+#4. Configure API Keys
 Create a file named .env in the root directory and add your keys:
 
-Code snippet
+# Code snippet
 CohereAPIKey=YOUR_COHERE_KEY
 GroqAPIKey=YOUR_GROQ_KEY
 SerperAPIKey=YOUR_SERPER_KEY
@@ -86,7 +86,7 @@ Assistantname=Jarvis
 InputLanguage=hi
 AssistantVoice=en-IN-PrabhatNeural
 
-▶️ How to Run
+#▶️ How to Run
 To start the assistant with the Graphical User Interface:
 
 Bash
