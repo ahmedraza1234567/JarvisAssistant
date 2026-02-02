@@ -1,9 +1,5 @@
 # 🤖 J.A.R.V.I.S. - Advanced AI Desktop Assistant
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)
-![Groq](https://img.shields.io/badge/Powered_By-Groq_LPU-orange?style=for-the-badge)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge)
-
 **Developed by: Ahmed Raza**
 
 A futuristic, voice-activated desktop assistant designed to bridge the gap between Large Language Models (LLMs) and local system automation. Built using **Python**, it features a **Dark Mode GUI** (inspired by ChatGPT), real-time internet connectivity, and ultra-fast inference using **Groq LPUs**.
