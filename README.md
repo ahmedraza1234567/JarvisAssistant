@@ -72,6 +72,18 @@ Bash
 pip install -r Requirements.txt
 
 # 4. Configure API Keys
+# 🔑 Get Your API Keys
+
+To run this project, you need to generate your own API keys from the following websites. Most of them are **Free** for developers!
+
+| Service | Purpose | 🔗 Website Link (Click to Get Key) |
+| :--- | :--- | :--- |
+| **Groq Cloud** | Ultra-fast LLM (Llama-3) | [Get Groq API Key](https://console.groq.com/keys) |
+| **Cohere** | Brain/Routing Logic | [Get Cohere API Key](https://dashboard.cohere.com/api-keys) |
+| **Serper.dev** | Google Search Data | [Get Serper API Key](https://serper.dev/) |
+| **Hugging Face** | Image Generation | [Get Access Token](https://huggingface.co/settings/tokens) |
+
+> **Note:** After getting the keys, paste them into your `.env` file as shown below.
 Create a file named .env in the root directory and add your keys:
 
 # Code snippet
