@@ -35,7 +35,6 @@ A futuristic, voice-activated desktop assistant designed to bridge the gap betwe
 
 ## 📂 Project Structure
 
-```text
 RAZA-ASSISTANT/
 ├── .ven/                  # Virtual Environment (Hidden)
 ├── Backend/               # Core Logic Files
