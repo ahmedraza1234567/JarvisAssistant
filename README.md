@@ -6,6 +6,16 @@ A futuristic, voice-activated desktop assistant designed to bridge the gap betwe
 
 ---
 
+## 📸 Interface Preview
+
+Here is a glimpse of the JARVIS AI Interface:
+
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/9c4ffc5e-2ec2-4f1c-8d2b-5d47eb991db1" />
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/d2c7dd4f-baca-4936-80f2-fdc4fb69134e" />
+
+
+> **Note:** The interface features a dark mode design with real-time chat updates.
+
 ## 🚀 Features
 
 * **⚡ Ultra-Fast Brain:** Powered by **Groq API (Llama-3)** for millisecond-latency responses.
